@@ -1,7 +1,13 @@
 [
    {
+      "title": "v0.1.3",
+      "free": true,
+      "date": "2024-08-24",
+      "content": "- Add ingame changelog viewer\n- Add new version notification at the main menu if there's a new version available\n- Add supporter button on the home\n- Remove supporter button from the option menu"
+   },
+   {
       "title": "v0.1.2",
-      "free": false,
+      "free": true,
       "date": "2024-08-23",
       "content": "- Add unlockable perk to unlock sexy scenes on the shop. Perk detail can be seen at the player stats menu, you can see it on the shop press \"Q\" menu.\n- Add unique buy/sell dialogue for all 8 customer. The flow mainly stay the same, the goal is for dialogue to match the customer personality.\n- Add variety of face expression to all 8 customer. This expression tied to their own dialogue and event at the shop.\n- Add small customer dialogue variations. Example:\n\t- Louisa can get naked on her own to persuade you to give better price or when you reject her. \n\t- When haggling with Kline, when she's selling item, you can ask her to get naked as a requirement to consider her item. Ask naked option is not available if the customer is wearing naked outfit and the perk is unlocked.\n- Increase price on more revealing outfit. The outfit price is now in range of 200-500.\n- Increase starting money to 5000.\n- Increase customer price calculation result on lower greed. (Make it easier to make money)\n- QoL: Add new dialogue panel (press J to toggle) for playing portrait orientation scene without blocked by the dialogue panel\n- QoL: Add auto focus on price field when haggling to enable player to immediately change their price\n- QoL: Up and down arrow key can be used to change price when haggling\n- QoL: Mouse scroll wheel can be used to change price when haggling when the mouse pointer is on the price box at the bottom right area\n- QoL: enable ctrl (skip dialogue) to shop\n- Changed font, I found some problem with previous font, so I decide to change it to another font for now.\n- Fix buying customer price is not affected by their stats, they always use the item base value as if they have max stats and make the game harder lol.\n- Fix event npc color marker being same color as buying customer\n- Fix Lillian ask naked dialogue messed up when player immediately give her nothing\n- Fix shop button still clickable while being disabled, causing space cannot be used to advance the dialogue\n- Tweak Lillian response order\n- Add option to skip Lillian dialogue at the start of her dialogue"
    }
