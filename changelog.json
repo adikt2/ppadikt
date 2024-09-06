@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.2.0",
+      "free": false,
+      "date": "2024-09-07",
+      "content": "- Add NPC Information menu to see currently available NPC, their level, and condition to progress their level.\n- Add player H level which will increase in time according to event that happened. If this level get too high, player stats will reduced, making player harder to make money. This can be reduced by getting \"help\" from anyone.\n- Add new perk related to new H level feature.\n- Add new NPC (police). She will start coming after day 4.\n- MC name is now editable in player menu.\n- Add buttons at the shop to access management menu, and inventory. I guess at this point it's fully playable with one hand, lol. But, there's still a lot of room for improvement for sure.\n- Tune the balance to make it easier to make money.\n- QoL: Disable auto focus on first response at dialogue. This is to prevent accidental response taken when player is spamming space or enter. To select first response, use down/right/tab arrow can be used, to select last response use up/left/shift+tab can be used.\n- QoL: Add color to price input to help player decide on profit/loss on the transaction. It will be green if the price is good, red if it's bad. If the customer is buying, the price will be green when it's higher than the price player bought the item at(profit), red if lower(loss). If the customer is selling, the price will be green when it's lower than the player expected price(potential profit), red if higher(potential loss). Remember, mc expected price can be way off if the competence stats is low.\n- QoL: Add keyboard support at main menu. With default focus on load game, if save game exist, and start new game in case of no save detected.\n- QoL: Add keyboard support at home (after shop). With default focus on the next day button, so player can just enter to enter new day.\n- Update tutorial to cover new features.\n- Tweak Lillian dialogue.\n- Tweak price change step.\n- Fix bug where Lillian level reset when player money is under 2000.\n- Fix pawloo name appeared instead of custom name.\n- Fix typo and grammar mistake in customer dialogues.\n- Fix repeating dialogue bug on some customer.\n- Fix stats bug not retrieving the correct value on customer and player."
+   },
+   {
       "title": "v0.1.3",
       "free": true,
       "date": "2024-08-24",
