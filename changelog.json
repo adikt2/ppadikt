@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.2.1-hotfix",
+      "free": false,
+      "date": "2024-09-10",
+      "content": "- Fix messed scene cg system."
+   },
+   {
       "title": "v0.2.0",
       "free": false,
       "date": "2024-09-07",
