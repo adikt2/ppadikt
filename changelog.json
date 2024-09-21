@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.2.2",
+      "free": false,
+      "date": "2024-09-21",
+      "content": "- Add first time and repeat dialogue for all customers scene dialogues.\n- Customer now can offer their selling price first (currently at 25% chance on selling only)\n- Add 5 new customer scenes, on Gabrielle, Jacqueline, Marie, Cara, and Thea. The scenes are mostly blowjob for each customer. Each customer now have 2 scene, making it 16 customer scenes in total.\n- Level 2 scene now will be unlocked after level 1 scene played at least once. It was all unlocked before as long as you have the perks. This will also apply on the future scene at level 3, 4...\n- Fix scene perk not used to activate scene on majority of the customers.\n- Fix broken player data on day 1 when starting a new game.\n- Fix replay scene not resetting some element.\n- Tweak Gabrielle scene cg and dialogues.\n- Fix grammars."
+   },
+   {
       "title": "v0.2.1-hotfix",
       "free": false,
       "date": "2024-09-10",
