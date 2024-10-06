@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.0",
+      "free": false,
+      "date": "2024-10-06",
+      "content": "- Change day system to day-week-month. Old day will be converted automatically at the start of the game.\n- Add summary report at the end of the day. There's daily, weekly, and monthly report added.\n- Add staff menu. Player can manage(hire, fire, and talk) their staff at the end of the day.\n- Add new staff (bouncer), she will enable customer blacklist feature if active, she also will make customer at the shop more patient. The dialogue and scene on the staff will come in later release.\n- Add blacklist feature when bouncer is in active staff. Current maximum customer that can be blacklisted is 2 (will be upgradable in future).\n- Add weekly staff and shop maintenance cost.\n- Add new information at tutorial about auto save, and the new staff feature.\n- H reduction now will get higher depend on the event level\n- Adjustment on customer management UI for blacklist feature."
+   },
+   {
       "title": "v0.2.2",
       "free": false,
       "date": "2024-09-21",
