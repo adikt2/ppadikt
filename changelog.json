@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.1",
+      "free": false,
+      "date": "2024-10-19",
+      "content": "- Add new unlockable customer Miyuki. She comes with 17 outfit and 2 scenes. There's also 2 new improvement feature coming with her, which will be applied to other customers in next update.\n\t- Customer can offer their scene to the player. Miyuki have this set at 50%.\n\t- Customer scene have first time and repeat option\n- Lillian at level 4 now have 50% chance to give player a random low price item.\n- Changed how customer data is tracked, customer data will be reset because of this. This is required as a base for changeable customer name, and future(maybe) swappable customer personality.\n- Change how customer scene are unlocked, this will make all customer scenes back to locked (you need to play the first scene again to unlock it). This will also make certain customer scene can be unlocked with special condition, for future content.\n- Fix some grammar mistakes on the prologue\n- QoL update:\n\t- Dialogue panel preset now remembered and saved.\n\t- Add keyboard key function on summary page and management UI.\n\t- Add blacklist indicator on the blacklisted customer.\n- Bug fixes:\n\t- Fix locked customer, NPC and staff showing their available/default outfit\n\t- Fix price input allowing letter to show\n\t- Fix starting price on buying customer is started by current money instead of the item expected price. This bug happened on buying customer after a selling customer exit the shop.\n\t- Fix money UI not updated in the shop\n\t- Fix background and cassia sprite messed up in home\n\t- Fix customer outfit UI not resetting properly when reopened\n\t- Fix customer outfit name changing when unlocking an outfit\n\t- Fix typo on customer dialogues\n\t- Fix several bugs with summary calculations\n\t- Fix \"better focus\" perk not unlocked properly"
+   },
+   {
       "title": "v0.3.0",
       "free": false,
       "date": "2024-10-06",
