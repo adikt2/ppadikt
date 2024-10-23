@@ -2,6 +2,12 @@
    {
       "title": "v0.3.2-hotfix",
       "free": false,
+      "date": "2024-10-23",
+      "content": "- Fix crash from NPC events\n- Fix wrong Bethany unlock condition text"
+   },
+   {
+      "title": "v0.3.2-hotfix",
+      "free": false,
       "date": "2024-10-20",
       "content": "- Add option for first time or repeat dialogue on all customers scene. Previously only available to Miyuki.\n- Bug fixes:\n\t- Fix scene option is showing when the required perk is not acquired yet, choosing the option will lead to customer exit the shop immediately.\n\t- Fix customer offering scene to player when the perk is not unlocked yet.\n\t- Disable daily maintenance cost (it was a testing code for me testing daily expenses)"
    },
