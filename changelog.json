@@ -1,6 +1,6 @@
 [
    {
-      "title": "v0.3.2-hotfix",
+      "title": "v0.3.3-hotfix",
       "free": false,
       "date": "2024-10-23",
       "content": "- Fix crash from NPC events\n- Fix wrong Bethany unlock condition text"
