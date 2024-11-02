@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.4",
+      "free": false,
+      "date": "2024-11-02",
+      "content": "- Add 1 new scene Miyuki, the new scene will be the second scene, so the previous sex scene moved as the third scene.\n- Add coom buildup variant for Miyuki sex scene.\n- Add upgrade system to staff, currently only with money.\n- Add body inspection(grope) scene for Keira(bouncer) at level 2.\n- Staff will pick an outfit for the day, the outfit will be randomly picked from unlocked and not blacklisted outfits.\n- Add unlock staff outfit system. Keira(bouncer) outfits will be locked at level 1, and 3 of her outfit can be unlocked at level 2.\n- Add customer outfit blacklist for bouncer at level 2, the bouncer can blacklist customer outfits until 1 active outfit remaining per customer.\n- Add staff outfit blacklist, for staff outfit blacklist, bouncer is not needed, it will always active since you are the boss.\n- Add ability for customers to offer scene to the player when they are selling. It was only available to Miyuki on previous version. The ability and chance to offer scene will differ based on the customer personality (around 15-35%).\n- Add 5 new outfit for Marie.\n- Miyuki chance to offer scene reduced from 50% to 35%.\n- At day 3, add dialogue at home that introduce shop expenses.\n- Adjustment on the tutorial information to keep up with current content.\n- Bug fixes:\n\t- Fix customer blacklist is still working when the bouncer is fired after setting the blacklist list\n\t- Fix typo in several Miyuki scenes\n\t- Fix Miyuki expression not changing in her scene\n- QoL:\n\t- Right click on the customer slot will blacklist the customer\n\t- Right click on the customer outfit slot will blacklist the customer outfit, also work on staff outfit.\n\t- Add information modal for blacklist customer and customer outfit\n- Technical Stuff:\n\t- More unit test to cover more human(me) error"
+   },
+   {
       "title": "v0.3.3-hotfix",
       "free": false,
       "date": "2024-10-23",
