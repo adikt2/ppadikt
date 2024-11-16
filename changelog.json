@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.5",
+      "free": false,
+      "date": "2024-11-16",
+      "content": "- Add 2 new sex scenes for Jacqueline and Louisa.\n\t- Cowgirl position for Jacqueline\n\t- Cowgirl and from behind position for Louisa\n- Add facial expression for these scenes:\n\t- Kline titfuck.\n\t- Jacqueline handjob.\n\t- Louisa nursing handjob.\n- Add multiple cum option for these scene:\n\t- Miyuki titfuck.\n\t- Kline titfuck.\n\t- Jacqueline handjob.\n\t- Jacqueline blowjob.\n\t- Gabrielle blowjob.\n\t- Louisa nursing handjob.\n- Adjustment on cum buildup image for Miyuki sex scene.\n- Add customer & npc scene list and count on their menu.\n- Bug fixes:\n\t- Fix price input cannot be deleted until it's empty.\n\t- Fix typo in customer dialogues.\n\t- Perk unlock string is now hidden when the perk is unlocked.\n\t- Fix shop maintenance cost is not working.\n\t- Fix staff weekly cost not working."
+   },
+   {
       "title": "v0.3.4",
       "free": false,
       "date": "2024-11-02",
