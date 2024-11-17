@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.6-hotfix",
+      "free": false,
+      "date": "2024-11-17",
+      "content": "- Fix Louisa sex scene cg still showing when another scene played after it in the same day\n- Louisa sex scene dialogue adjustment"
+   },
+   {
       "title": "v0.3.5",
       "free": false,
       "date": "2024-11-16",
