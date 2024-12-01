@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.7",
+      "free": false,
+      "date": "2024-12-01",
+      "content": "- Add upgradable shop, currently shop level will affect these stats:\n\t- Item storage\n\t- Daily customer count\n\t- Max active staff, but right now, there's only 1 staff available\n\t- Weekly maintenance cost\n\t- Unlock new content (for future update)\n- Add missionary sex position for Jacqueline with passed out option.\n- Restructure Jacqueline sex scene, adding missionary position and option to change the position in the scene.\n- QoL:\n\t- Change the response position in dialogue so it doesn't block the center of the screen.\n\t- Add new panel preset to swap the position of the dialogue and response option.\n- Bug fixes:\n\t- Fix typo in Louisa sex scene\n\t- Fix Louisa sex scene flag not working as intended."
+   },
+   {
       "title": "v0.3.6-hotfix",
       "free": false,
       "date": "2024-11-17",
