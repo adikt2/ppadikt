@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.8",
+      "free": false,
+      "date": "2024-12-14",
+      "content": "- New scene:\n\t- Cara sleep sex\n\t- Cara standing sex\n\t- Gabrielle doggy style\n- New npc:\n\t- Zahra\n- Add customer mood. This feature will be unlocked at week 2 when Cassia is talking to you about it at home. Higher insight will increase the chance for mood to be revealed. Current mood in the game are:\n\t- Normal: the default mood\n\t- Stingy: the customer will have worse price (high when selling, low when buying)\n\t- Generous: the customer will have better price\n\t- In a rush: the customer wouldn't bargain with player but will more tolerate the price given to her. The opening dialogue also slightly changed for some customer when they have this mood.\n- Add new perk:\n\t- Soothing cum: Scene will reduce more h point.\n- Remove old customer assets to decrease the game file size."
+   },
+   {
       "title": "v0.3.7",
       "free": false,
       "date": "2024-12-01",
