@@ -1,9 +1,15 @@
 [
    {
+      "title": "v0.3.12",
+      "free": false,
+      "date": "2025-01-12",
+      "content": "- Add new sex scene for Kline.\n- Add H level to the customer (from intoxicating cum perk).\n- Add free customer outfit unlock based on customer H level or other stats. Most of the current customer outfit now have free unlock condition.\n- Add NPC blacklist, can be unlocked from Keira the bouncer at level 3.\n- Increase Keira max level to level 3 which unlock:\n\t- New outfit, and older outfit variant\n\t- NPC blacklist feature (max 2).\n- Add variant outfit system, this type of outfit variant is applied only on Keira, for now.\n- Balancing:\n\t- Reduce cost of upgrading stats.\n\t- Increase some outfit cost in response of free unlock feature."
+   },
+   {
       "title": "v0.3.11-hotfix",
       "free": false,
       "date": "2025-01-07",
-      "content": "Changelog:\n- Fix Zahra BJ start over leading to different scene.\n- Fix Bethany dialogue showing some bb code."
+      "content": "- Fix Zahra BJ start over leading to different scene.\n- Fix Bethany dialogue showing some bb code."
    },
    {
       "title": "v0.3.10-hotfix",
@@ -15,7 +21,7 @@
       "title": "v0.3.9",
       "free": false,
       "date": "2024-12-29",
-      "content": "Changelog:\n- Add more of Zahra story with her blowjob scene in it.\n- Add Thea sex scene.\n- Add 18 new items\n- Add new perk \"Intoxicating Cum\" which can be obtained from Zahra story. When this perk is unlocked, player can make the customers more corrupted(still on development), for example, increasing the corruption will unlocking new mood and give free outfit unlock.\n- Add repeat dialogue for Louisa sex scene.\n- Add cum on customer sprite after scene:\n\t- Miyuki blowjob, titjob, and sex scene.\n\t- Louisa sex scene.\n\t- Jacqueline handjob, blowjob, and sex scene.\n\t- Cara blowjob, and sex scene.\n\t- Gabrielle handjob, blowjob, and sex scene.\n\t- Thea blowjob, titjob, and sex scene\n- Hover at button at the left of item on the table to move the item to the right if needed ;)\n- Add simple text animation on the money when it's changed.\n- Balancing:\n\t- Change cum times needed for soothing ejaculation level 1 from 20 to 30.\n- QoL:\n\t- Add separate dialogue box background color when the girl is talking.\n- Bug fixes:\n\t- Fix typo in Adelee sell dialogue.\n\t- Fix saved number in data tracking for scene h point is after reduction, should be before reduction.\n\t- Fix NPC scene not unlocking properly at the start of a new day.\n\t- Fix customer scene not unlocking properly.\n\t- Fix some game data not saved properly."
+      "content": "- Add more of Zahra story with her blowjob scene in it.\n- Add Thea sex scene.\n- Add 18 new items\n- Add new perk \"Intoxicating Cum\" which can be obtained from Zahra story. When this perk is unlocked, player can make the customers more corrupted(still on development), for example, increasing the corruption will unlocking new mood and give free outfit unlock.\n- Add repeat dialogue for Louisa sex scene.\n- Add cum on customer sprite after scene:\n\t- Miyuki blowjob, titjob, and sex scene.\n\t- Louisa sex scene.\n\t- Jacqueline handjob, blowjob, and sex scene.\n\t- Cara blowjob, and sex scene.\n\t- Gabrielle handjob, blowjob, and sex scene.\n\t- Thea blowjob, titjob, and sex scene\n- Hover at button at the left of item on the table to move the item to the right if needed ;)\n- Add simple text animation on the money when it's changed.\n- Balancing:\n\t- Change cum times needed for soothing ejaculation level 1 from 20 to 30.\n- QoL:\n\t- Add separate dialogue box background color when the girl is talking.\n- Bug fixes:\n\t- Fix typo in Adelee sell dialogue.\n\t- Fix saved number in data tracking for scene h point is after reduction, should be before reduction.\n\t- Fix NPC scene not unlocking properly at the start of a new day.\n\t- Fix customer scene not unlocking properly.\n\t- Fix some game data not saved properly."
    },
    {
       "title": "v0.3.8",
