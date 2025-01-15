@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.13-hotfix",
+      "free": false,
+      "date": "2025-01-15",
+      "content": "- Change how the game exported to prevent false positive virus detection by windows defender, I hope it's not coming back.\n- Add ask naked on Louisa sell dialogue.\n- Balancing:\n\t- Increase NPC spawn chance.\n- Bug fixes:\n\t- Fix Cassia addressing MC as Pawloo instead of the custom name.\n\t- Fix player perk not unlocking properly.\n\t- Fix customer h-bar UI not showing on the day intoxicating cum perk unlocked.\n\t- Fix customer h-bar UI not updated right after the scene end.\n\t- Fix several bugs on NPC Blacklist feature:\n\t\t- Right click to toggle blacklist not working.\n\t\t- NPC Blacklist system itself not working properly.\n\t\t- Removing NPC blacklist not working."
+   },
+   {
       "title": "v0.3.12",
       "free": false,
       "date": "2025-01-12",
