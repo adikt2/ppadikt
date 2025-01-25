@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.14",
+      "free": false,
+      "date": "2025-01-25",
+      "content": "- Add new sex scene for Adelee.\n- Add cum on customer sprite after scene for Adelee and Kline.\n- Add Horny mood for customers. Currently, for most of the customer, this mood will unlock at h level 4. When the customer is in horny mood, they have higher chance to offer scene to player, and instead of bargaining for better price with player, they are willing to accept worse price for a steamy exchange, meaning higher profit. For example when the customer is selling, they will lower the price if the player want to bang her.\n- Add horny dialogue variant for all the customers. There might be some issue with this since there's a lot of dialogue flow changed, let me know if you experiencing any issues.\n- Change how \"ask naked\" choice works on customers, now the player can choose what to do after the customer get naked rather than fixed to giving a counter offer. 🙌\n- Add ask to get naked option on buying customer on h level 3(with the perk unlocked). On selling customer this option is available as soon as the perk is unlocked.\n- Add ask to get naked choice on Gabrielle sell dialogue.\n- QoL:\n\t- Add mood explanation button at the right of the mood text.\n- Balancing:\n\t- Increasing h level on customer now will lower their \"scene price\".\n- Bug Fixes:\n\t- Fix customer not offering scene to player due to broken perk check code.\n\t- Fix rejecting customer scene offer leading to premature dialogue end."
+   },
+   {
       "title": "v0.3.13-hotfix",
       "free": false,
       "date": "2025-01-15",
