@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.15-hotfix",
+      "free": false,
+      "date": "2025-01-29",
+      "content": "- Bug fixes:\n\t- Fix several game data issues on new game, one of the problem is perk not unlocking until restart.\n\t- Fix mood button showing when the mood is not unlocked yet.\n\t- Fix Bethany unlocked at day 6 instead of 5.\n\t- Hide UI when an event start at the home, for example when Cassia is explaining about mood on the customers.\n\t- Fix spamming space on the start of an event on the home skipping it entirely to next day.\n- QoL:\n\t- Add confirmation box when you're about to spend at least 3 times of the item estimation when buying from the customer."
+   },
+   {
       "title": "v0.3.14",
       "free": false,
       "date": "2025-01-25",
