@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.16",
+      "free": false,
+      "date": "2025-02-09",
+      "content": "- Add Marie sex scene.\n- Add sneak peek for new NPC, Rina, a single mother. The story is still on development.\n- Add cum on Marie after her sex scene.\n- Customer will stay naked after the scene end, unless the dialogue tell them otherwise.\n- QoL:\n\t- Reduce dialogue box size on some preset.\n- Bug fixes:\n\t- Fix Kline sex scene start over bugged to Jacqueline sex scene.\n\t- Fix price confirmation bug on price higher than 1000.\n\t- Fix unhandled branch dialogue bug when player reject customer after scene price bargain, and then accept customer offer to reconsider their offer by getting naked."
+   },
+   {
       "title": "v0.3.15-hotfix",
       "free": false,
       "date": "2025-01-29",
