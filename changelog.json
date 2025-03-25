@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.3.19",
+      "free": false,
+      "date": "2025-03-25",
+      "content": "- Add new titjob scene for Rina.\n- Add Mila story progress, increasing her max level to 3. Her level 3 also unlock a new outfit for her.\n- Improvements have been made to NPC generation, guaranteeing their spawn within 3 days. A weighted spawn rate has also been applied to ensure a more balanced spawn rate, minimizing the impact of bad RNG and preventing certain NPCs from spawning.\n- Add an incremental chance for each failed attempt at the Mila repair event. In the current state, there should be at least one repair made per week. All other chance-based events in the future should use this new method to prevent bad RNG from happening.\n- Items can now be marked as \"not for sale\" to prevent customers from buying them. \n\t- This feature is intended to help the player save items that they want Mila to repair.\n\t- Customers will try to search for available items up to 3 times, and if all of the items are not for sale, the customer will decide not to buy anything.\n\t- If the player marks all of their items as \"not for sale\", this will not prevent buying customers from spawning. Instead, they will still spawn, decide to not buy anything, and then leave, using up the day's customer quota.\n- Balancing:\n\t- Reduce Mila weekly cost at all level.\n- Bug Fixes:\n\t- Fix the issue where Mila's repaired item shows a reduced estimation compared to before the repair.\n\t- Fix Cara crop top with skirt outfit showing wrong outfit."
+   },
+   {
       "title": "v0.3.18",
       "free": false,
       "date": "2025-03-09",
