@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.3.21",
+      "free": false,
+      "date": "2025-04-07",
+      "content": "- Add Mila level 4 and 5.\n- Add footjob scene for Mila.\n- Add sound effects to all the girl scenes, except Cassia. I'm planning to rework Cassia scene into animation, so if things go well, the sound will be implemented at that phase.\n- Add sound effects to notifications.\n- Add Credit button on the main menu.\n- Bug fixes:\n\t- Try to fix \"Bought At\" appearing on selling customer.\n\t- Remove placeholder text on the girls' dialogue.\n\t- Fix several typos in the dialogues.\n\t- Fix upgrade staff not updating the staff description until next day."
+   },
+   {
+      "title": "v0.3.20-hotfix",
+      "free": false,
+      "date": "2025-03-28",
+      "content": "- Fix the hardlock when the game tries to spawn an NPC and finds no eligible NPC."
+   },
+   {
       "title": "v0.3.19",
       "free": false,
       "date": "2025-03-25",
