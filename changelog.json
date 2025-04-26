@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.0",
+      "free": false,
+      "date": "2025-04-26",
+      "content": "- Add live2d integration to the dialogue and scene module on the game. Basically, this will enable all customer and NPC have their live2d animation scene implemented easily in the future.\n- Add first animated scene for Cassia (replacing Cassia breast grope scene).\n- Tweak Cassia's dialogue due to how her animated scene flow now."
+   },
+   {
       "title": "v0.3.21",
       "free": false,
       "date": "2025-04-07",
