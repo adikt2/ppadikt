@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.2",
+      "free": false,
+      "date": "2025-05-15",
+      "content": "- Add new animated sex scene for Adelee, replacing her static cowgirl scene. \n- Add new sex scene (static image) for Rina, increasing her level to 9 max which unlock mother-son relationship on her. It's more like adopted son though. :) This will also have a slight different dialogue on her previous scene.\n- Add sfx integration to live2d animation player. Integrated with Adelee new scene of course ;)\n- Add speed integration to live2d animation player.\n- Add h-level integration to the dialogue module, basically this enable the girl to have the third option on their scene based on their h-level. The content will come in future.\n- Bug Fixes:\n\t- Fix NPC outfit variant text displaying the incorrect outfit variant.\n\t- Fix clipping issue on Rina outfit sprites.\n\t- Fix scaling issue with live2d player.\n- Balancing:\n\t- Reduce Mila weekly cost."
+   },
+   {
       "title": "v0.4.0",
       "free": false,
       "date": "2025-04-26",
