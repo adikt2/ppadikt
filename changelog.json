@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.4.6",
+      "free": false,
+      "date": "2025-07-13",
+      "content": "- Add Cara live2d sex scene.\n- Add basic auction game mechanic. This is still very early version of the auction house, a lot of things are still unfinished, I apologize if it cause any issue.\n- Add lactation to Rina sex scene sprite and adjust her scene dialogue a little bit.\n- Add corrupted dialogue variant for Gabrielle sex scene, corrupted dialogue can be selected when the girl's h level is 5 (usually). The other girl will get their corrupted version soon.\n- Balancing:\n\t- Increase Mila repair chance for level 4(40%->45%) and 5(40%->50%)\n\t- Increase h-point when a girl is getting naked from 4 to 5\n\t- Customer that come to the shop with exposed private parts now increase more h-point (just a little bit)"
+   },
+   {
+      "title": "v0.4.5",
+      "free": false,
+      "date": "2025-06-29",
+      "content": "- Add live2d sex scene for Gabrielle.\n- Add auction house that can be visited after shop closed. The actual auction is still on development though.\n- Add new character Talia, she will work as an auctioneer at auction house.\n- Bug fixes:\n\t- Fix clipping issue on Jacqueline sex scene\n\t- Fix some issue with Rina sex scene dialogue\n\t- Fix Rina sex scene not started on ask to penetrate option"
+   },
+   {
       "title": "v0.4.4",
       "free": false,
       "date": "2025-06-15",
