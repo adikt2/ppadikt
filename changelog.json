@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.7",
+      "free": false,
+      "date": "2025-07-27",
+      "content": "- Added Miyuki Live2D sex animation.\n- Added Level 2 membership at the auction house. Auctions now start with cheaper items at Level 1 and unlock more expensive items at Level 2, along with additional sexy features.\n- Added several improvements to the auction (SFX and UI).\n- Added new BGM for the home screen, sex scenes, and auction house.\n- Added ambient sounds and BGM to the prologue.\n- Removed some content due to recent drama in the adult game market. The removed content includes:\n    - Rina’s toggleable relationship with the player.\n    - Passed-out option for Jacqueline.\n    - Sleep sex with Cara.\n- Added corrupted variant text for:\n    - Adelee’s boob suck scene.\n    - Gabrielle in the shop (buy/sell).\n    - Gabrielle’s handjob scene.\n    - Gabrielle’s blowjob scene.\n- Bug Fixes:\n    - Fixed Cassia’s Live2D grope scene expression transition being too slow.\n    - Fixed the month and week not displaying correctly in the auction house.\n    - Fixed audio volume being louder than intended.\n    - Attempted to fix \"Bought at\" appearing when selling to a customer.\n    - Fixed broken navigation with arrow keys in the home screen and auction house.\n    - Fixed expressions not working when an outfit variant is active (e.g., the topless version of an outfit).\n    - Fixed Rina wearing locked outfit on level 1 and 2."
+   },
+   {
       "title": "v0.4.6",
       "free": false,
       "date": "2025-07-13",
