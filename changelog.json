@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.8",
+      "free": false,
+      "date": "2025-08-11",
+      "content": "- Add Kline animated sex scene.\n- Changed the game font is to support more language.\n- Integrate localization to the game.  This is an ongoing process, so there will be some UI text that is not yet translated.\n- Add french, simplified chinese, and indonesian localization. The translation is made by AI, so there will be mistakes. I'm planning to get it fixed by native speaker in future, so I suggest you to use the english for now unless it's needed. If you want to suggest a translation fix, I'm open to it though. :)\n- A little adjustment on Miyuki sex scene dialogue.\n- Bug fix:\n\t- Enable breath effect on Miyuki sex scene"
+   },
+   {
       "title": "v0.4.7",
       "free": false,
       "date": "2025-07-27",
