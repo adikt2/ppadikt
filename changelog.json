@@ -178,35 +178,5 @@
       "free": false,
       "date": "2024-10-06",
       "content": "- Change day system to day-week-month. Old day will be converted automatically at the start of the game.\n- Add summary report at the end of the day. There's daily, weekly, and monthly report added.\n- Add staff menu. Player can manage(hire, fire, and talk) their staff at the end of the day.\n- Add new staff (bouncer), she will enable customer blacklist feature if active, she also will make customer at the shop more patient. The dialogue and scene on the staff will come in later release.\n- Add blacklist feature when bouncer is in active staff. Current maximum customer that can be blacklisted is 2 (will be upgradable in future).\n- Add weekly staff and shop maintenance cost.\n- Add new information at tutorial about auto save, and the new staff feature.\n- H reduction now will get higher depend on the event level\n- Adjustment on customer management UI for blacklist feature."
-   },
-   {
-      "title": "v0.2.2",
-      "free": false,
-      "date": "2024-09-21",
-      "content": "- Add first time and repeat dialogue for all customers scene dialogues.\n- Customer now can offer their selling price first (currently at 25% chance on selling only)\n- Add 5 new customer scenes, on Gabrielle, Jacqueline, Marie, Cara, and Thea. The scenes are mostly blowjob for each customer. Each customer now have 2 scene, making it 16 customer scenes in total.\n- Level 2 scene now will be unlocked after level 1 scene played at least once. It was all unlocked before as long as you have the perks. This will also apply on the future scene at level 3, 4...\n- Fix scene perk not used to activate scene on majority of the customers.\n- Fix broken player data on day 1 when starting a new game.\n- Fix replay scene not resetting some element.\n- Tweak Gabrielle scene cg and dialogues.\n- Fix grammar mistakes."
-   },
-   {
-      "title": "v0.2.1-hotfix",
-      "free": false,
-      "date": "2024-09-10",
-      "content": "- Fix messed scene cg system."
-   },
-   {
-      "title": "v0.2.0",
-      "free": false,
-      "date": "2024-09-07",
-      "content": "- Add NPC Information menu to see currently available NPC, their level, and condition to progress their level.\n- Add player H level which will increase in time according to event that happened. If this level get too high, player stats will reduced, making player harder to make money. This can be reduced by getting \"help\" from anyone.\n- Add new perk related to new H level feature.\n- Add new NPC (police). She will start coming after day 4.\n- MC name is now editable in player menu.\n- Add buttons at the shop to access management menu, and inventory. I guess at this point it's fully playable with one hand, lol. But, there's still a lot of room for improvement for sure.\n- Tune the balance to make it easier to make money.\n- QoL: Disable auto focus on first response at dialogue. This is to prevent accidental response taken when player is spamming space or enter. To select first response, use down/right/tab arrow can be used, to select last response use up/left/shift+tab can be used.\n- QoL: Add color to price input to help player decide on profit/loss on the transaction. It will be green if the price is good, red if it's bad. If the customer is buying, the price will be green when it's higher than the price player bought the item at(profit), red if lower(loss). If the customer is selling, the price will be green when it's lower than the player expected price(potential profit), red if higher(potential loss). Remember, mc expected price can be way off if the competence stats is low.\n- QoL: Add keyboard support at main menu. With default focus on load game, if save game exist, and start new game in case of no save detected.\n- QoL: Add keyboard support at home (after shop). With default focus on the next day button, so player can just enter to enter new day.\n- Update tutorial to cover new features.\n- Tweak Lillian dialogue.\n- Tweak price change step.\n- Fix bug where Lillian level reset when player money is under 2000.\n- Fix pawloo name appeared instead of custom name.\n- Fix typo and grammar mistake in customer dialogues.\n- Fix repeating dialogue bug on some customer.\n- Fix stats bug not retrieving the correct value on customer and player."
-   },
-   {
-      "title": "v0.1.3",
-      "free": true,
-      "date": "2024-08-24",
-      "content": "- Add ingame changelog viewer\n- Add new version notification at the main menu if there's a new version available\n- Add supporter button on the home\n- Remove supporter button from the option menu"
-   },
-   {
-      "title": "v0.1.2",
-      "free": true,
-      "date": "2024-08-23",
-      "content": "- Add unlockable perk to unlock sexy scenes on the shop. Perk detail can be seen at the player stats menu, you can see it on the shop press \"Q\" menu.\n- Add unique buy/sell dialogue for all 8 customer. The flow mainly stay the same, the goal is for dialogue to match the customer personality.\n- Add variety of face expression to all 8 customer. This expression tied to their own dialogue and event at the shop.\n- Add small customer dialogue variations. Example:\n\t- Louisa can get naked on her own to persuade you to give better price or when you reject her. \n\t- When haggling with Kline, when she's selling item, you can ask her to get naked as a requirement to consider her item. Ask naked option is not available if the customer is wearing naked outfit and the perk is unlocked.\n- Increase price on more revealing outfit. The outfit price is now in range of 200-500.\n- Increase starting money to 5000.\n- Increase customer price calculation result on lower greed. (Make it easier to make money)\n- QoL: Add new dialogue panel (press J to toggle) for playing portrait orientation scene without blocked by the dialogue panel\n- QoL: Add auto focus on price field when haggling to enable player to immediately change their price\n- QoL: Up and down arrow key can be used to change price when haggling\n- QoL: Mouse scroll wheel can be used to change price when haggling when the mouse pointer is on the price box at the bottom right area\n- QoL: enable ctrl (skip dialogue) to shop\n- Changed font, I found some problem with previous font, so I decide to change it to another font for now.\n- Fix buying customer price is not affected by their stats, they always use the item base value as if they have max stats and make the game harder lol.\n- Fix event npc color marker being same color as buying customer\n- Fix Lillian ask naked dialogue messed up when player immediately give her nothing\n- Fix shop button still clickable while being disabled, causing space cannot be used to advance the dialogue\n- Tweak Lillian response order\n- Add option to skip Lillian dialogue at the start of her dialogue"
    }
 ]
