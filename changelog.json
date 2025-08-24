@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.9",
+      "free": false,
+      "date": "2025-08-25",
+      "content": "- Add Rina Live2D sex scene.\n- Add a way to increase h level at home. This feature can be unlocked by getting special item from auction house.\n- Add more localization support on remaining UIs.\n- Add spanish and russian language. Same as other language, it's still translate from AI for now.\n- Add disclaimer opening screen at the start of the game.\n- Balancing:\n\t- Reduce Rina H level point requirement\n\t- Increase horny mood chance on the customer.\n- Bug fix:\n\t- Fix broken repair system on Mila at level 6.\n\t- Fix staff upgrade button being enabled when the shop is still open.\n\t- Fix breath effect on customer not working on the sprite overlay(e.g cum)."
+   },
+   {
       "title": "v0.4.8",
       "free": false,
       "date": "2025-08-11",
