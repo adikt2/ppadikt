@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.4.11-hotfix",
+      "free": false,
+      "date": "2025-08-26",
+      "content": "- Fix Mila \"See h scene\" requirement not going up, which make leveling her up impossible.\n- Fix some dialogue disabled option being showed."
+   },
+   {
+      "title": "v0.4.10-hotfix",
+      "free": false,
+      "date": "2025-08-25",
+      "content": "- Fix freeze at startup"
+   },
+   {
       "title": "v0.4.9",
       "free": false,
       "date": "2025-08-25",
