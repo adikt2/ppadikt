@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.12",
+      "free": false,
+      "date": "2025-09-07",
+      "content": "- Add animated sex scene for Marie.\n- Add more Zahra story, also come with a new static sex scene.\n- Add cum sprite overlay for Zahra after sex scene.\n- Add accessibility buttons on dialogue balloon. This is mainly for mobile version.\n- Add cheat menu.\n- Add german translation.\n- Adjust translation in French and Indonesian.\n- Balancing:\n\t- Reduce item sold requirement for Zahra from 30 to 15.\n\t- Reduce money given requirement for Rina at level 6 from 6000 to 5000.\n\t- Reduce Rina H level requirement.\n- Bugfixes:\n\t- Fix auction ambient sound not stopped correctly when player exit the auction early.\n\t- Fix free item given by NPC become broken after the game restart.\n\t- Fix holding skip dialogue button when cumming at sex scene causing the cum count increasing non stop.\n\t- Fix french language showing chinese font at some dialogue."
+   },
+   {
       "title": "v0.4.11-hotfix",
       "free": false,
       "date": "2025-08-26",
