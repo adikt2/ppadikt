@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.14",
+      "free": false,
+      "date": "2025-09-21",
+      "content": "Changelog:\n- Add animated sex scene for Zahra.\n- Rework Cassia sprite (it was using the old method and code), the new sprite also support expression, outfit, like other NPC. In this update, only expression is integrated, the outfits will come soon for her.\n- Rework the prologue story, this will change MC relationship with Cassia from a complete stranger in Pawnia to an old friend from Earth. If you want to read the story you can start the game as a new game, and just make sure don't continue to the game after the prologue end. \n- Rewrite Cassia interaction on the house (still WIP).\n- Rework Jacqueline hand job scene image. I feel this one need to be done before making it animated in future.\n- Add Hall of Gratitude. This place is dedicated to recognizing this game supporters. In the future, I plan to add NPC and a little bit interaction.\n- Optimization:\n\t- Optimize VRAM usages on several areas. This should make the game load faster and will allow me to use higher resolution asset. I hope it doesn't break anything. 😅\n- Bugfixes:\n\t- Fix Cassia initial blowjob scene not unlocking properly.\n\t- Fix Cassia grope scene on \"ask naked\" option not using the animated grope scene.\n\t- Fix typo on Zahra missionary repeat dialogue."
+   },
+   {
       "title": "v0.4.13-hotfix",
       "free": false,
       "date": "2025-09-07",
