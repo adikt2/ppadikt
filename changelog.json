@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.17",
+      "free": false,
+      "date": "2025-10-22",
+      "content": "- Add Miyuki titfuck blowjob animated scene.\n- Add Miyuki blowjob animated scene.\n- Add new NPC Niriel. She's an elf that lives in the Hall of Gratitude.\n- Cheat menu is now is disabled by default. It will need to be activated first, there is clue on how to activate it from the little Niriel's story.\n- Rework game UI.\n- Bug fixes:\n\t- Fix bold, italic font style not working\n\t- Fix money not updated correctly after winning an auction.\n- Balancing:\n\t- Reduce Zahra initial unlock requirement.\n- QoL:\n\t- Added $ to all money related text.\n\t- Add H Bar to dialogue outside the shop.\n\t- Add current H level percentage of the girl to the dialogue box while in shop."
+   },
+   {
       "title": "v0.4.16-hotfix",
       "free": false,
       "date": "2025-10-05",
