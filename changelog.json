@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.4.18",
+      "free": false,
+      "date": "2025-11-07",
+      "content": "- Add Louisa nursing handjob animated scene.\n- Overhaul bargain UI and add new buttons to improve UX. The new buttons come as an upgrade that can be unlocked with player perk called \"Shop Expert\".\n- Talia will now strip after several multi bid instead of one bid.\n- Perk is now consider player current stats that affected by horny level. For example a perk need competence level 3 and the player have competence at level 3, with high horny level, the competence dropped to 2, this will disable the perk temporarily until the horny level dropped or the raw stats is increased higher.\n- Add 2 new dialogue preset. dialogue preset default also set to the right layout.\n- Balancing:\n\t- Attempt to balance the chance of selling and buying customer spawn rate\n- Bug fixes:\n\t- Fix gray background on Cassia Grope scene\n\t- Fix checkbox margin making it misaligned\n\t- Fix option button margin making it misaligned on hover\n\t- Fix cum at Niriel option can be clicked repeatedly\n\t- Fix selling customer stop spawning when item in inventory reach max inventory size - 1\n\t- Fix Talia showing wrong type of expressions when hosting an auction\n\t- Fix bid button still active after Talia naked from multiple bid.\n\t- Fix horny level 0 giving maximum horny level penalty.\n\t- Fix Miyuki blowjob first time and repeat option not showing\n\t- Fix missing translation on Miyuki blowjob scene"
+   },
+   {
       "title": "v0.4.17",
       "free": false,
       "date": "2025-10-22",
