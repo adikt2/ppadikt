@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.5.1-hotfix",
+      "free": false,
+      "date": "2025-11-24",
+      "content": "- Bugfixes:\n\t- Fix Niriel Help option not working properly on some outfit\n\t- Fix Niriel sprite overlay covering the outfit on some case\n\t- Fix missing translation\n\t- Fix Thea impregnation not working properly\n\t- Fix scene option being enabled while pregnant on some customers"
+   },
+   {
+      "title": "v0.5.0",
+      "free": false,
+      "date": "2025-11-23",
+      "content": "- Add pregnancy(optional) to the game, it can be unlocked by progressing further in Zahra's story. In this version all customers and Zahra can be impregnated.\n- Add pregnancy related info to some UI, this information will be hidden if pregnancy is turned off.\n- Add new animated sex position for Miyuki.\n- Add new cheat for pregnancy related feature.\n- Bugfixes:\n\t- Fix NPCs outfit unlocked prematurely without it's requirement\n\t- Fix missing requirement text on outfit auto unlock\n\t- Rework some of Marie's outfits."
+   },
+   {
       "title": "v0.4.18",
       "free": false,
       "date": "2025-11-07",
