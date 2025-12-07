@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.2",
+      "free": false,
+      "date": "2025-12-07",
+      "content": "- Add new animated sex scene position for Louisa\n- Non shop NPC now can be seen on the NPC menu with their currently unlocked outfits.\n- Pregnancy:\n\t- Rina now can be pregnant\n\t- Pregnant outfit is now listed on the customer/NPC menu, these outfits will work like the normal outfit which can be unlocked and blacklisted\n- Bugfixes:\n\t- Fix NPC outside the shop using outfit they shouldn't use (The bug happened on Cassia at the prologue and Niriel)\n\t- Fix memory leak on NPC outfit module"
+   },
+   {
       "title": "v0.5.1-hotfix",
       "free": false,
       "date": "2025-11-24",
