@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.5.4-hotfix",
+      "free": false,
+      "date": "2025-12-09",
+      "content": "- Hide luck stats (not used in this version)\n- Bugfixes:\n\t- Fix cassia blowjob option not showing\n\t- Fix pregnant outfit blacklist not loaded properly"
+   },
+   {
+      "title": "v0.5.3-hotfix",
+      "free": false,
+      "date": "2025-12-08",
+      "content": "- Changes how bought customer outfit saved, the old one have a fatal flaw I just found. this will reset the unlocked outfit from purchasing it. I'm sorry, I hope the cheat can help refunding the money :(\n- Bugfixes:\n\t- Fix broken outfit system on NPCs where they can't strip or get naked\n\t- Fix overflowing text on auction because of a long item name\n\t- Fix Cassia naked outfit unlocked by default\n\t- Fix buying pregnant outfit not working"
+   },
+   {
       "title": "v0.5.2",
       "free": false,
       "date": "2025-12-07",
