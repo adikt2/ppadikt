@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.5",
+      "free": false,
+      "date": "2025-12-24",
+      "content": "- Add Niriel first animated scene\n- Add reputation level to the shop. Reputation level can be seen at the player menu.\n- Rework current item progression that will appear to the shop to be based on the new reputation system\n- Add more item variety with wider price range.\n- Rework porn magazine dialogue to be more clear on what it does.\n- Add money to UI when unlocking outfit\n- Add shop dev button to cheat menu\n- Change French translation to become more informal\n- Balancing:\n\t- Increase naked girl effect on player horniness\n- Pregnancy:\n\t- Add impregnate attempt left for current scene on the UI\n- Bugfixes:\n\t- Fix Talia strip bid not working"
+   },
+   {
       "title": "v0.5.4-hotfix",
       "free": false,
       "date": "2025-12-09",
@@ -106,35 +112,5 @@
       "free": false,
       "date": "2025-07-13",
       "content": "- Add Cara live2d sex scene.\n- Add basic auction game mechanic. This is still very early version of the auction house, a lot of things are still unfinished, I apologize if it cause any issue.\n- Add lactation to Rina sex scene sprite and adjust her scene dialogue a little bit.\n- Add corrupted dialogue variant for Gabrielle sex scene, corrupted dialogue can be selected when the girl's h level is 5 (usually). The other girl will get their corrupted version soon.\n- Balancing:\n\t- Increase Mila repair chance for level 4(40%->45%) and 5(40%->50%)\n\t- Increase h-point when a girl is getting naked from 4 to 5\n\t- Customer that come to the shop with exposed private parts now increase more h-point (just a little bit)"
-   },
-   {
-      "title": "v0.4.5",
-      "free": false,
-      "date": "2025-06-29",
-      "content": "- Add live2d sex scene for Gabrielle.\n- Add auction house that can be visited after shop closed. The actual auction is still on development though.\n- Add new character Talia, she will work as an auctioneer at auction house.\n- Bug fixes:\n\t- Fix clipping issue on Jacqueline sex scene\n\t- Fix some issue with Rina sex scene dialogue\n\t- Fix Rina sex scene not started on ask to penetrate option"
-   },
-   {
-      "title": "v0.4.4",
-      "free": false,
-      "date": "2025-06-15",
-      "content": "- Add new animated sex scene for Jacqueline.\n- Adjusted Louisa’s Live2D sex scene to keep her breasts from moving excessively due to the table’s position in the scene.\n- Replaced the cum sprite in Louisa’s Live2D sex scene.\n- Bugfixes:\n\t- Fix cum count on npc UI not working."
-   },
-   {
-      "title": "v0.4.3",
-      "free": false,
-      "date": "2025-06-01",
-      "content": "- Add Louisa animated sex scene replacing her old from behind sex scene. The scene dialogue also altered a bit.\n- Add Mila static handjob scene. The scene can be unlocked when she reached level 6.\n- Add 2 new outfits for Mila at level 6.\n- Add h level to NPC, same gameplay mechanic with customer h level. Every h point recovered from the NPC will contribute to the NPC h level.\n- Add unlockable outfits for Rina, the unlock condition is displayed in the NPC menu. She will also start wearing the unlocked outfit.\n- Bugfix:\n\t- Fix Rina empty dialogue on her sex scene after cumming more than 5 times.\n\t- Fix Rina always using the same outfit at level 6-9 ;)"
-   },
-   {
-      "title": "v0.4.2",
-      "free": false,
-      "date": "2025-05-15",
-      "content": "- Add new animated sex scene for Adelee, replacing her static cowgirl scene. \n- Add new sex scene (static image) for Rina, increasing her level to 9 max which unlock mother-son relationship on her. It's more like adopted son though. :) This will also have a slight different dialogue on her previous scene.\n- Add sfx integration to live2d animation player. Integrated with Adelee new scene of course ;)\n- Add speed integration to live2d animation player.\n- Add h-level integration to the dialogue module, basically this enable the girl to have the third option on their scene based on their h-level. The content will come in future.\n- Bug Fixes:\n\t- Fix NPC outfit variant text displaying the incorrect outfit variant.\n\t- Fix clipping issue on Rina outfit sprites.\n\t- Fix scaling issue with live2d player.\n- Balancing:\n\t- Reduce Mila weekly cost."
-   },
-   {
-      "title": "v0.4.0",
-      "free": false,
-      "date": "2025-04-26",
-      "content": "- Add live2d integration to the dialogue and scene module on the game. Basically, this will enable all customer and NPC have their live2d animation scene implemented easily in the future.\n- Add first animated scene for Cassia (replacing Cassia breast grope scene).\n- Tweak Cassia's dialogue due to how her animated scene flow now."
    }
 ]
