@@ -1,5 +1,23 @@
 [
    {
+      "title": "v0.5.9",
+      "free": false,
+      "date": "2026-02-08",
+      "content": "- Add Cassia handjob animated scene\n- Add vsync option in setting. For those who have issues with frame generation feature in their device, I think toggling this can help.\n- Pregnancy:\n\t- Cassia now can be pregnant.\n\t- Add pregnancy related dialogue for pregnant customers when they arrived in the shop\n- Bugfixes:\n\t- Fix incorrect branch dialogues flow at shop\n\t- Fix edited Cassia name not applied correctly"
+   },
+   {
+      "title": "v0.5.8",
+      "free": false,
+      "date": "2026-01-23",
+      "content": "- Add new location: Bank and new NPC: Violet. Currently this area only serve as a way to get a loan. The loan right now only have 1 program, this is only meant as a way for broke player to recover without cheat. More loan program will be available in future as well as deposit feature.\n- Add animated sex scene for Cassia.\n- Bugfixes:\n\t- Fix impregnate attempt UI showing when pregnancy is disabled\n\t- Fix non shop NPC scene count shown as locked\n\t- Fix missing hint information on max reputation"
+   },
+   {
+      "title": "v0.5.7",
+      "free": false,
+      "date": "2026-01-06",
+      "content": "- Add Cassia animated blowjob scene\n- Add more to Cassia story\n- Add more item to auction house at level 2, these items are related to Cassia story to help the progression.\n- Bugfixes:\n\t- Fix wrong dialogue branch in Niriel handjob scene"
+   },
+   {
       "title": "v0.5.6-hotfix",
       "free": false,
       "date": "2025-12-24",
