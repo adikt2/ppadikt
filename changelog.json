@@ -1,5 +1,17 @@
 [
    {
+      "title": "v0.5.12-hotfix",
+      "free": false,
+      "date": "2026-02-25",
+      "content": "- Bugfixes:\n\t- Fix hardlock on customer buying when player doesn't have any available item to sell."
+   },
+   {
+      "title": "v0.5.11-hotfix",
+      "free": false,
+      "date": "2026-02-25",
+      "content": "- Bugfixes:\n\t- Fix stuck selling customer on reputation level 1"
+   },
+   {
       "title": "v0.5.10",
       "free": false,
       "date": "2026-02-25",
