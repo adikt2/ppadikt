@@ -1,6 +1,6 @@
 [
    {
-      "title": "v0.5.17,
+      "title": "v0.5.17",
       "free": false,
       "date": "2026-04-12",
       "content": "Update the game Engine to Godot 4.6, I hope nothing breaks. 🙌\n- Add Lillian animated sex scene.\n- Add information on player H level when the bar is clicked.\n- Change crowd sound volume in the auction house to follow the music volume in setting.\n- Add reject button on Roxy dialogue.\n- Pregnancy:\n\t- Lillian now can get pregnant.\n\t- Pregnancy duration now can be modified by talking to Zahra, currently it accepts 4-30 days.\n\t- Add instant pregnant belly, this feature can be activated by talking to Zahra. With this feature on, the pregnant character will have pregnant belly at day 2 instead of in the middle of pregnant period.\n- Bugfixes:\n\t- Fix wrong name text in Cassia's dialogue.\n\t- Fix repeating text on Marie's scene negotiation dialogue"
