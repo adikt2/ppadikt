@@ -1,5 +1,35 @@
 [
    {
+      "title": "v0.5.17,
+      "free": false,
+      "date": "2026-04-12",
+      "content": "Update the game Engine to Godot 4.6, I hope nothing breaks. 🙌\n- Add Lillian animated sex scene.\n- Add information on player H level when the bar is clicked.\n- Change crowd sound volume in the auction house to follow the music volume in setting.\n- Add reject button on Roxy dialogue.\n- Pregnancy:\n\t- Lillian now can get pregnant.\n\t- Pregnancy duration now can be modified by talking to Zahra, currently it accepts 4-30 days.\n\t- Add instant pregnant belly, this feature can be activated by talking to Zahra. With this feature on, the pregnant character will have pregnant belly at day 2 instead of in the middle of pregnant period.\n- Bugfixes:\n\t- Fix wrong name text in Cassia's dialogue.\n\t- Fix repeating text on Marie's scene negotiation dialogue"
+   },
+   {
+      "title": "v0.5.16-hotfix",
+      "free": false,
+      "date": "2026-04-12",
+      "content": "- Bugfixes:\n\t- Fix activate cheat button not working properly."
+   },
+   {
+      "title": "v0.5.15",
+      "free": false,
+      "date": "2026-04-12",
+      "content": "- Add Roxy hand job scene, this scene can be unlocked after MC caught her trying to sell fake item twice (starting in this version).\n- Add Niriel sex scene.\n- Roxy now only have one mood (normal).\n- Make skip button (CTRL) faster. When skip button on the UI is toggled on, a click/touch will also toggle the skip button off, this is intended to help mobile users.\n- Add Portuguese (Brazil) translation.\n- Pregnancy:\n\t- Niriel is now can become pregnant.\n- Balancing:\n\t- Reduce requirement for Zahra pregnancy unlock.\n- Bugfixes:\n\t- Fix crash when trying to access Roxy pregnant outfit.\n\t- Fix invalid Adelee name show up on dialogue.\n\t- Hide supporter button when talking to Niriel."
+   },
+   {
+      "title": "v0.5.14-hotfix",
+      "free": false,
+      "date": "2026-04-12",
+      "content": "- Bugfixes:\n\t- Fix broken Niriel level 2 unlock. (Visit the gratitude hall once again, and then wait 1 week until her level 2 unlocked)"
+   },
+   {
+      "title": "v0.5.13",
+      "free": false,
+      "date": "2026-04-12",
+      "content": "- Add Niriel blowjob scene.\n- Add inspect feature on item, currently this is only applied at Roxy since only she right now that can sell fake item. This is more of a base mechanic on fake item interaction will be.\n- Tweaked Roxy dialogue when she caught selling fake item.\n- Add infinite item inspection to cheat menu.\n- Pregnancy:\n\t- Add failed impregnation image.\n- Bugfixes:\n\t- Fix broken Bethany scene when she's at level 6.\n\t- Fix exiting Violet dialogue strip her.\n\t- Fix world NPC scene count not updated on the UI until the game restarted."
+   },
+   {
       "title": "v0.5.12-hotfix",
       "free": false,
       "date": "2026-02-25",
@@ -76,83 +106,5 @@
       "free": false,
       "date": "2025-11-23",
       "content": "- Add pregnancy(optional) to the game, it can be unlocked by progressing further in Zahra's story. In this version all customers and Zahra can be impregnated.\n- Add pregnancy related info to some UI, this information will be hidden if pregnancy is turned off.\n- Add new animated sex position for Miyuki.\n- Add new cheat for pregnancy related feature.\n- Bugfixes:\n\t- Fix NPCs outfit unlocked prematurely without it's requirement\n\t- Fix missing requirement text on outfit auto unlock\n\t- Rework some of Marie's outfits."
-   },
-   {
-      "title": "v0.4.18",
-      "free": false,
-      "date": "2025-11-07",
-      "content": "- Add Louisa nursing handjob animated scene.\n- Overhaul bargain UI and add new buttons to improve UX. The new buttons come as an upgrade that can be unlocked with player perk called \"Shop Expert\".\n- Talia will now strip after several multi bid instead of one bid.\n- Perk is now consider player current stats that affected by horny level. For example a perk need competence level 3 and the player have competence at level 3, with high horny level, the competence dropped to 2, this will disable the perk temporarily until the horny level dropped or the raw stats is increased higher.\n- Add 2 new dialogue preset. dialogue preset default also set to the right layout.\n- Balancing:\n\t- Attempt to balance the chance of selling and buying customer spawn rate\n- Bug fixes:\n\t- Fix gray background on Cassia Grope scene\n\t- Fix checkbox margin making it misaligned\n\t- Fix option button margin making it misaligned on hover\n\t- Fix cum at Niriel option can be clicked repeatedly\n\t- Fix selling customer stop spawning when item in inventory reach max inventory size - 1\n\t- Fix Talia showing wrong type of expressions when hosting an auction\n\t- Fix bid button still active after Talia naked from multiple bid.\n\t- Fix horny level 0 giving maximum horny level penalty.\n\t- Fix Miyuki blowjob first time and repeat option not showing\n\t- Fix missing translation on Miyuki blowjob scene"
-   },
-   {
-      "title": "v0.4.17",
-      "free": false,
-      "date": "2025-10-22",
-      "content": "- Add Miyuki titfuck blowjob animated scene.\n- Add Miyuki blowjob animated scene.\n- Add new NPC Niriel. She's an elf that lives in the Hall of Gratitude.\n- Cheat menu is now is disabled by default. It will need to be activated first, there is clue on how to activate it from the little Niriel's story.\n- Rework game UI.\n- Bug fixes:\n\t- Fix bold, italic font style not working\n\t- Fix money not updated correctly after winning an auction.\n- Balancing:\n\t- Reduce Zahra initial unlock requirement.\n- QoL:\n\t- Added $ to all money related text.\n\t- Add H Bar to dialogue outside the shop.\n\t- Add current H level percentage of the girl to the dialogue box while in shop."
-   },
-   {
-      "title": "v0.4.16-hotfix",
-      "free": false,
-      "date": "2025-10-05",
-      "content": "- Bug fix:\n\t- Fix broken Louisa sex scene.\n\t- Fix broken translation on Cassia hand job scene."
-   },
-   {
-      "title": "v0.4.15",
-      "free": false,
-      "date": "2025-10-05",
-      "content": "- Add animated sex scene for Thea.\n- Rework Cassia handjob scene image.\n- Add new background image for shop, home, mc room, and auction hall.\n- Add corrupted version of sex scene dialogue for all customers.\n- Moved cheat menu and support button from Home to Hall of Gratitude."
-   },
-   {
-      "title": "v0.4.14",
-      "free": false,
-      "date": "2025-09-21",
-      "content": "- Add animated sex scene for Zahra.\n- Rework Cassia sprite (it was using the old method and code), the new sprite also support expression, outfit, like other NPC. In this update, only expression is integrated, the outfits will come soon for her.\n- Rework the prologue story, this will change MC relationship with Cassia from a complete stranger in Pawnia to an old friend from Earth. If you want to read the story you can start the game as a new game, and just make sure don't continue to the game after the prologue end. \n- Rewrite Cassia interaction on the house (still WIP).\n- Rework Jacqueline hand job scene image. I feel this one need to be done before making it animated in future.\n- Add Hall of Gratitude. This place is dedicated to recognizing this game supporters. In the future, I plan to add NPC and a little bit interaction.\n- Optimization:\n\t- Optimize VRAM usages on several areas. This should make the game load faster and will allow me to use higher resolution asset. I hope it doesn't break anything. 😅\n- Bugfixes:\n\t- Fix Cassia initial blowjob scene not unlocking properly.\n\t- Fix Cassia grope scene on \"ask naked\" option not using the animated grope scene.\n\t- Fix typo on Zahra missionary repeat dialogue."
-   },
-   {
-      "title": "v0.4.13-hotfix",
-      "free": false,
-      "date": "2025-09-07",
-      "content": "- Fix hardlock on scene when MC is cumming too fast with the skip dialogue toggled on 😂"
-   },
-   {
-      "title": "v0.4.12",
-      "free": false,
-      "date": "2025-09-07",
-      "content": "- Add animated sex scene for Marie.\n- Add more Zahra story, also come with a new static sex scene.\n- Add cum sprite overlay for Zahra after sex scene.\n- Add accessibility buttons on dialogue balloon. This is mainly for mobile version.\n- Add cheat menu.\n- Add german translation.\n- Adjust translation in French and Indonesian.\n- Balancing:\n\t- Reduce item sold requirement for Zahra from 30 to 15.\n\t- Reduce money given requirement for Rina at level 6 from 6000 to 5000.\n\t- Reduce Rina H level requirement.\n- Bugfixes:\n\t- Fix auction ambient sound not stopped correctly when player exit the auction early.\n\t- Fix free item given by NPC become broken after the game restart.\n\t- Fix holding skip dialogue button when cumming at sex scene causing the cum count increasing non stop.\n\t- Fix french language showing chinese font at some dialogue."
-   },
-   {
-      "title": "v0.4.11-hotfix",
-      "free": false,
-      "date": "2025-08-26",
-      "content": "- Fix Mila \"See h scene\" requirement not going up, which make leveling her up impossible.\n- Fix some dialogue disabled option being showed."
-   },
-   {
-      "title": "v0.4.10-hotfix",
-      "free": false,
-      "date": "2025-08-25",
-      "content": "- Fix freeze at startup"
-   },
-   {
-      "title": "v0.4.9",
-      "free": false,
-      "date": "2025-08-25",
-      "content": "- Add Rina Live2D sex scene.\n- Add a way to increase h level at home. This feature can be unlocked by getting special item from auction house.\n- Add more localization support on remaining UIs.\n- Add spanish and russian language. Same as other language, it's still translate from AI for now.\n- Add disclaimer opening screen at the start of the game.\n- Balancing:\n\t- Reduce Rina H level point requirement\n\t- Increase horny mood chance on the customer.\n- Bug fix:\n\t- Fix broken repair system on Mila at level 6.\n\t- Fix staff upgrade button being enabled when the shop is still open.\n\t- Fix breath effect on customer not working on the sprite overlay(e.g cum)."
-   },
-   {
-      "title": "v0.4.8",
-      "free": false,
-      "date": "2025-08-11",
-      "content": "- Add Kline animated sex scene.\n- Changed the game font is to support more language.\n- Integrate localization to the game.  This is an ongoing process, so there will be some UI text that is not yet translated.\n- Add french, simplified chinese, and indonesian localization. The translation is made by AI, so there will be mistakes. I'm planning to get it fixed by native speaker in future, so I suggest you to use the english for now unless it's needed. If you want to suggest a translation fix, I'm open to it though. :)\n- A little adjustment on Miyuki sex scene dialogue.\n- Bug fix:\n\t- Enable breath effect on Miyuki sex scene"
-   },
-   {
-      "title": "v0.4.7",
-      "free": false,
-      "date": "2025-07-27",
-      "content": "- Added Miyuki Live2D sex animation.\n- Added Level 2 membership at the auction house. Auctions now start with cheaper items at Level 1 and unlock more expensive items at Level 2, along with additional sexy features.\n- Added several improvements to the auction (SFX and UI).\n- Added new BGM for the home screen, sex scenes, and auction house.\n- Added ambient sounds and BGM to the prologue.\n- Removed some content due to recent drama in the adult game market. The removed content includes:\n    - Rina’s toggleable relationship with the player.\n    - Passed-out option for Jacqueline.\n    - Sleep sex with Cara.\n- Added corrupted variant text for:\n    - Adelee’s boob suck scene.\n    - Gabrielle in the shop (buy/sell).\n    - Gabrielle’s handjob scene.\n    - Gabrielle’s blowjob scene.\n- Bug Fixes:\n    - Fixed Cassia’s Live2D grope scene expression transition being too slow.\n    - Fixed the month and week not displaying correctly in the auction house.\n    - Fixed audio volume being louder than intended.\n    - Attempted to fix \"Bought at\" appearing when selling to a customer.\n    - Fixed broken navigation with arrow keys in the home screen and auction house.\n    - Fixed expressions not working when an outfit variant is active (e.g., the topless version of an outfit).\n    - Fixed Rina wearing locked outfit on level 1 and 2."
-   },
-   {
-      "title": "v0.4.6",
-      "free": false,
-      "date": "2025-07-13",
-      "content": "- Add Cara live2d sex scene.\n- Add basic auction game mechanic. This is still very early version of the auction house, a lot of things are still unfinished, I apologize if it cause any issue.\n- Add lactation to Rina sex scene sprite and adjust her scene dialogue a little bit.\n- Add corrupted dialogue variant for Gabrielle sex scene, corrupted dialogue can be selected when the girl's h level is 5 (usually). The other girl will get their corrupted version soon.\n- Balancing:\n\t- Increase Mila repair chance for level 4(40%->45%) and 5(40%->50%)\n\t- Increase h-point when a girl is getting naked from 4 to 5\n\t- Customer that come to the shop with exposed private parts now increase more h-point (just a little bit)"
    }
 ]
