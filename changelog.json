@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.18",
+      "free": false,
+      "date": "2026-04-30",
+      "content": "- Add animated Rina titjob scene.\n- Add animated Roxy blowjob scene. This can be unlocked after her H level at level 3.\n- Add outfit blacklist to the Shop NPC. NPCs at certain levels or during specific events still force a required outfit to be worn.\n- Add 2 more level for Keira the bouncer. This upgrade will increase the customer and NPC blacklist limit and unlock more of her outfit.\n- Add experimental export and import save button in option menu.\n- Balancing:\n\t- Reduce Zahra unlock and level 2 requirement.\n\t- Miyuki sex scene now unlocked after her H level are at 3. Other girl will have this behaviour too in later update.\n- Bugfix:\n\t- Fix Cassia first handjob scene after paying debt is not using the animated version.\n\t- Fix ctrl to skip button not working properly.\n\t- Fix some Miyuki pregnant dialogue continuing by itself."
+   },
+   {
       "title": "v0.5.17",
       "free": false,
       "date": "2026-04-12",
