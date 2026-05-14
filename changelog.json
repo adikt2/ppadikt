@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.19",
+      "free": false,
+      "date": "2026-05-14",
+      "content": "- Add animated Gabrielle BJ scene.\n- Add moan and voice line(for cum voice) channel for sex scene. I need to gather some feedback first to define the direction of this feature, so I add moan only to 2 sex scene for now, Cassia and Miyuki.\n- Management menu now can be opened outside the shop by pressing esc. In Android, there will be new button to open this menu outside the shop.\n- Adjust expression and dialogue flow on Cassia sex scene and Miyuki sex scene.\n- Bugfixes:\n\t- Fix import/export save system to use native file management instead of using godot file management. This should fix the android import/export save issue. This feature is still in experimental so please use it with caution since it directly change the game save file."
+   },
+   {
       "title": "v0.5.18",
       "free": false,
       "date": "2026-04-30",
