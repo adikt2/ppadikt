@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.23",
+      "free": false,
+      "date": "2026-06-14",
+      "content": "- Add Marie buttjob animated scene.\n- Add option for Roxy to prevent inspection from MC and add new way for her to counter offer from MC.\n- Normal scene option now available for Roxy after her first blowjob scene.\n- Add dialogue text speed option.\n- Add Japanese and Korean translation.\n- Adjust and fix bad translation in existing available languages. \n- Balancing:\n\t- Tweak formula on customer and player to make it easier to make money in the game. There's no change on the flow.\n- Bugfixes:\n\t- Adjust option button in shop overlapping with table when there are more than 5 option available.\n\t- Fix a bug where scene unlocks sometimes skipping the sequence."
+   },
+   {
       "title": "v0.5.22",
       "free": false,
       "date": "2026-05-30",
