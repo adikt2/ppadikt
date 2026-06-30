@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.24",
+      "free": false,
+      "date": "2026-07-01",
+      "content": "- Add Roxy animated sex scene.\n- Add new dialogue for Roxy to unlock her sex scene.\n- Add junkyard location to sell fake item in bulk. This location will be unlocked automatically after you have at least 3 fake item in inventory.\n- Fake item is now not for sale. This will be changed later after a proper mechanic around it developed.\n- Pregnancy:\n\t- Roxy now can get pregnant.\n- Bugfixes:\n\t- Fix money animation sometimes become not clear it's increasing or decreasing.\n\t- Fix sfx still playing when the scene is already hidden."
+   },
+   {
       "title": "v0.5.23",
       "free": false,
       "date": "2026-06-14",
