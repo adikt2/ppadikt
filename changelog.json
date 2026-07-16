@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.26-hotfix",
+      "free": false,
+      "date": "2026-07-16",
+      "content": "- Bugfixes:\n\t- Fix Mila repair skill not working properly when she's at high level"
+   },
+   {
       "title": "v0.5.25",
       "free": false,
       "date": "2026-07-16",
