@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.25",
+      "free": false,
+      "date": "2026-07-16",
+      "content": "- Add Jacqueline animated handjob scene.\n- Add Mila animated sex scene.\n- Add 2 new level for Mila, unlocking her sex scene and naked outfit.\n- Adjust UI for girl scene stats.\n- Update Godot engine version to 4.7.\n- Pregnancy:\n\t- Mila now can get pregnant.\n\t- Integrate pregnancy UI to staff menu.\n- Bugfixes:\n\t- Fix NPC H Level shown as locked in the menu, this is UI issue only.\n\t- Fix NPC data not updated properly until the game restarted.\n\t- Fix cum sprite on Cassia blowjob scene."
+   },
+   {
       "title": "v0.5.24",
       "free": false,
       "date": "2026-07-01",
