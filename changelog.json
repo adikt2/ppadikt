@@ -1,5 +1,11 @@
 [
    {
+      "title": "v0.5.7",
+      "free": false,
+      "date": "2026-08-01",
+      "content": "- Add Violet animated handjob scene.\n- Add saving account in bank.\n- Violet now can offer handjob when MC applying for a loan or want to deposit.\n- Add Violet story progression.\n- Add gallery function, only played scene will be listed here and scene played here won't count as progression.\n- Add Junie character asset, she is planned to be the NPC in junkyard.\n- Balancing:\n\t- Second scene of all customer now unlocked at haggle scene level 1 instead of 2\n\t- Increase the requirement for haggle scene level 2\n\t- Increase the amount of loan from Violet to $4000\n\t- Adjust the loan interest rate\n- Bugfixes:\n\t- Fix Rina level 6 unlock being 40 days instead of 10 days\n\t- Fix \"world NPC\" scene count not saved properly"
+   },
+   {
       "title": "v0.5.26-hotfix",
       "free": false,
       "date": "2026-07-16",
