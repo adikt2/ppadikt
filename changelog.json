@@ -1,6 +1,30 @@
 [
    {
-      "title": "v0.5.7",
+      "title": "v0.5.31",
+      "free": false,
+      "date": "2026-10-05",
+      "content": "- Add Kline blowjob animated scene.\n- Add Kline titjob animated scene.\n- Add experimental cum shot mode, currently it's already unlocked and can be toggled by clicking the button beside the money panel. This will also trigger cum overlay on the customer whenever possible.\n- Bugfixes:\n\t- Fix VRAM leak. The VRAM usage in some case can leak up to 2 GB or maybe more, while the normal usage should be < 1GB.\n\t- Fix save game leak issue, causing save game file size bigger over time and slow down load game process.\n\t- Fix pregnancy not unlocked at the same day the perk unlocked.\n\t- Fix incorrect hint tooltip on Zahra.\n\t- Fix Kline cum in pussy overlay not showing correctly in her sex scene.\n\t- Fix BGM not looping in shop."
+   },
+   {
+      "title": "v0.5.30",
+      "free": false,
+      "date": "2026-09-20",
+      "content": "- Add Cara buttjob animated scene with additional variant for vaginal and anal if the sex scene option already unlocked.\n- Add jukebox for changing bgm in shop.\n- Hide locked NPC information to make the behavior consistent with customer and staff.\n- Update Godot version to 4.7.2\n- Balancing:\n\t- Balance sell-buy chance of the customer based on MC money amount\n\t- \"Buying customer doesn't find item they interested\" formula is changed, now the more item you have the lower this event chance to happen, charisma also reduce the chance of this to happen. Previously, it is affected by not for sale item count, and causing bad experience when there is a lot of not for sale item in the inventory.\n- Bugfixes:\n\t- Fix null value in Junie level 3 hint.\n\t- Fix loan in bank is not stopped after all installments already paid.\n\t- Fix sex scene unlock condition is not applied correctly. Previously only Jacqueline, Louisa, and Miyuki have the correct unlock condition where their sex scene is unlocked after their H level is at 3.\n\t- Fix H level bar progress changes in customer menu when selecting higher H level customer from lower H level customer, and then click the same high H level customer again.\n\t- Fix horny related perk not working when using the magazine or Cassia help to increase MC horny meter."
+   },
+   {
+      "title": "v0.5.29",
+      "free": false,
+      "date": "2026-08-01",
+      "content": "- Add Adelee tit suck animated scene.\n- Add Gabrielle handjob animated scene.\n- Add more story for Bethany that will lead to some other customer other than Roxy to start sell fake item on lower chance.\n- Gabrielle, Miyuki now can sell fake item after Bethany story progressed.\n- Add related dialogue to the customers that now can sell fake item.\n- Inspect item now can give \"genuine item\" result.\n- Minor UI tweaks.\n- Localization:\n\t- Fix missing translation from v0.5.28.\n- Pregnancy:\n\t- Fake item is disabled on pregnant customer for now.\n- Balancing:\n\t- Increase inspect fake item chance to success.\n\t- Increase insight stats impact on inspect success chance.\n- Bugfixes:\n\t- Fix high charisma causing price to get lower when selling to customer\n\t- Fix Junie progression stuck at level 1\n\t- Fix label issue on quit confirmation modal"
+   },
+   {
+      "title": "v0.5.28",
+      "free": false,
+      "date": "2026-08-01",
+      "content": "- Add Jacqueline animated blowjob scene.\n- Add introduction story to Junie with her little sexy scene.\n- Roxy sex scene now only accessible after catching her selling fake item.\n- Notification now can be dismissed by clicking it.\n- Localization:\n\t- Translation fix on several languages.\n- Bugfixes:\n\t- Fix repeating dialogue for some customer.\n\t- Fix expression not showed properly in some scene."
+   },
+   {
+      "title": "v0.5.27",
       "free": false,
       "date": "2026-08-01",
       "content": "- Add Violet animated handjob scene.\n- Add saving account in bank.\n- Violet now can offer handjob when MC applying for a loan or want to deposit.\n- Add Violet story progression.\n- Add gallery function, only played scene will be listed here and scene played here won't count as progression.\n- Add Junie character asset, she is planned to be the NPC in junkyard.\n- Balancing:\n\t- Second scene of all customer now unlocked at haggle scene level 1 instead of 2\n\t- Increase the requirement for haggle scene level 2\n\t- Increase the amount of loan from Violet to $4000\n\t- Adjust the loan interest rate\n- Bugfixes:\n\t- Fix Rina level 6 unlock being 40 days instead of 10 days\n\t- Fix \"world NPC\" scene count not saved properly"
